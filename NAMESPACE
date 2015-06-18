@@ -1,0 +1,4 @@
+useDynLib(clrt)
+
+# Export all names
+exportPattern(".")

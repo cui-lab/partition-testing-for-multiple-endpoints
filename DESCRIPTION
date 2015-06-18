@@ -1,0 +1,11 @@
+Package: clrt
+Type: Package
+Title: Consonant Likelihood Ratio Test for Primary and Secondary
+        Endpoints
+Version: 1.0
+Author: Bushi Wang
+Maintainer: Bushi Wang <bushi.wang@email.ucr.edu>
+Description: Calculate critical constants and perform consonant likelihood ratio test for primary and secondary endpoints problem.
+Depends: R (>= 2.12.0), quadprog, mvtnorm
+License: GPL-2
+Packaged: 2011-12-21 19:43:27 UTC; gmurillo
